@@ -1,5 +1,6 @@
 # comp4300-assignment1
-1.网课comp4300的作业1，2024版网址： https://www.youtube.com/watchv=3WWjsTPdlag&amp;list=PL_xRyXins848Mfiv4hIgiMZgLpzFT7ohv&amp;index=2 b站上有2023版的搬运，但没翻译。 下面原作业的要求：
+1.网课comp4300的作业1，2024版网址： https://www.youtube.com/watchv=3WWjsTPdlag&amp;list=PL_xRyXins848Mfiv4hIgiMZgLpzFT7ohv&amp;index=2 b站上有2023版的搬运，但没翻译。 src.cpp是作业的实现代码，但没完全照着作业要求做
+下面原作业的要求：
 标题与说明
  
 -  Assignment Notes: 
